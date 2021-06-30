@@ -1,0 +1,132 @@
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: rgb(255, 0, 119);
+    background-color: transparent;
+    text-decoration: none;
+}    
+.hed {
+    background-color: rgb(48, 116, 162);
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.main-nav {
+    background-color: white;
+    text-align: center;
+    margin-top: 30px;
+    h 
+}
+.Donesi {
+    font-size: 60px;
+    color: rgb(238, 238, 242);
+    vertical-align: top;
+}
+.logo {
+    border-radius: 45px;
+    border: black solid;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.zajedno {
+    display: inline-block;
+}
+.Search {
+    width: 290px;
+    margin-top: 20px;
+}
+.lista {
+    font-size: 19px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    font-style: bold;
+}
+.main-nav .main-menu li {
+    display: inline;
+    margin-left: 25px;
+    margin-top: 35px;
+    font-weight: 900;
+    
+    
+    
+}
+.bojamenija a {
+    color: rgb(35, 81, 165);
+    font-size:  20px;
+}
+.pre-header .gluposti ul {
+    display: inline-block;
+}
+.pre-header .gluposti li {
+    display: inline-block;
+    width: 550px;
+    height: 3px;
+}
+.img {
+    width: 230px;
+    height: 219px;
+}   
+.redovi {
+    margin-top: 40px;
+
+    
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bojakartica {
+    background-color: rgb(48, 116, 162);
+    padding: 10px;
+    border-radius: 7px;
+    width: 250px;
+}
+.naslovi {
+    font-size: 30px;
+    border: 2px solid rgb(192, 15, 15);
+    border-radius: 7px;
+    text-align: center;
+    
+}
+.linkovi {
+    text-decoration: none;
+    width: 250px;
+        
+}
+.vidimeni {
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 70px;
+    font-style: bold;
+}
+.dugme a {
+    margin-right: 285px;
+    display: flex;
+    justify-content: start;
+    
+}
+.zidovi {
+    background-color: rgb(48, 116, 162);
+    width: 100%;
+    height: 100%;
+}
+.MO {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
